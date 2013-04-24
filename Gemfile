@@ -20,12 +20,15 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
-gem 'jquery-rails'
+ gem 'jquery-rails'
 gem 'simple_form'
+gem 'less-rails'
 gem 'paperclip'
 gem 'twitter-bootstrap-rails'
 gem 'json'
 gem 'lazybox'
+
+
 
 
 # To use ActiveModel has_secure_password
