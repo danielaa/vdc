@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  cedula: MyString
+  fecha_nacimiento: 2013-04-24
+  nombres: MyString
+  apellidos: MyString
+  telefono: MyString
+  celular: MyString
+
+two:
+  cedula: MyString
+  fecha_nacimiento: 2013-04-24
+  nombres: MyString
+  apellidos: MyString
+  telefono: MyString
+  celular: MyString

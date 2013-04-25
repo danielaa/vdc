@@ -18,7 +18,11 @@ development:
   database: vdc_development
   pool: 5
   username: postgres
+<<<<<<< HEAD
+  password: oliva
+=======
   password: 323921
+>>>>>>> 56eefb46b9d62596edc137aeb6926040143051a4
   host: localhost
   port: 5432
 
@@ -45,7 +49,11 @@ test:
   database: vdc_test
   pool: 5
   username: postgres
+<<<<<<< HEAD
+  password: oliva
+=======
   password: 323921
+>>>>>>> 56eefb46b9d62596edc137aeb6926040143051a4
   host: localhost
   port: 5432
 
@@ -55,6 +63,10 @@ production:
   database: vdc_production
   pool: 5
   username: postgres
+<<<<<<< HEAD
+  password: oliva
+=======
   password: 323921
+>>>>>>> 56eefb46b9d62596edc137aeb6926040143051a4
   host: localhost
   port: 5432

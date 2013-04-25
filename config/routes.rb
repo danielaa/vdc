@@ -1,5 +1,9 @@
 Vdc::Application.routes.draw do
+<<<<<<< HEAD
+  resources :docentes
+=======
   resources :matters
+>>>>>>> 56eefb46b9d62596edc137aeb6926040143051a4
 
 
   # The priority is based upon order of creation:
