@@ -25,9 +25,6 @@ gem 'less-rails'
 gem 'paperclip'
 gem 'twitter-bootstrap-rails'
 gem 'jquery-rails'
-
- gem 'jquery-rails'
-
 gem 'simple_form'
 gem 'less-rails'
 gem 'paperclip'
