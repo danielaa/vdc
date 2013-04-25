@@ -20,4 +20,15 @@ ActiveRecord::Schema.define(:version => 20130425171518) do
     t.datetime "updated_at", :null => false
   end
 
+  create_table "docentes", :force => true do |t|
+    t.string   "cedula"
+    t.date     "fecha_nacimiento"
+    t.string   "nombres"
+    t.string   "apellidos"
+    t.string   "telefono"
+    t.string   "celular"
+    t.datetime "created_at",       :null => false
+    t.datetime "updated_at",       :null => false
+  end
+
 end
